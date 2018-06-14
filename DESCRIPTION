@@ -1,0 +1,11 @@
+Package: tidylibs
+Type: Package
+Title: Header only C++ libraries used by tidyverse packages
+Version: 0.1.0
+Authors@R: c(
+    person("Romain", "Francois", email = "romain@rstudio.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-2444-4226") )
+  )
+Description: Header only C++ libraries used by tidyverse packages.
+License: BSL-1.0
+Encoding: UTF-8
+LazyData: true
